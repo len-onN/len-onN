@@ -1,6 +1,6 @@
 ## Olá mundo. 
 
-Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui, psss (nos repositórios).
+Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui, psssh (nos repositórios).
 
 Duvidas, sugestões? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/). 
 
@@ -8,7 +8,7 @@ Além de códigos, gosto de me aventurar com diferentes melodias e ritmos (ouvir
 
 ## Hello world.
 
-In October 2022, I began my journeys into the world of web development, and part of the way is here, pssss (in the repositories).
+In October 2022, I began my journeys into the world of web development, and part of the way is here, pssssh (in the repositories).
 
 Questions, suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
 
