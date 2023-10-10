@@ -1,18 +1,18 @@
 ## Olá mundo. 
 
-Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui, psssh (nos repositórios).
+Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui.
 
 Duvidas, sugestões? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/). 
 
-Além de códigos, gosto de me aventurar com diferentes melodias e ritmos (ouvir, err tocar e escrever rs), ler artigos aleátorios sobre ciência e tecnologia, brincar com os pets (1 calopsita e 3 cães), refletir e meditar. 
+Além de códigos, gosto de me aventurar com diferentes melodias e ritmos, ler artigos aleátorios sobre ciência e tecnologia.
 
 ## Hello world.
 
-In October 2022, I began my journeys into the world of web development, and part of the way is here, pssssh (in the repositories).
+In October 2022, I began my journeys into the world of web development, and part of the way is here.
 
 Questions, suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
 
-Beside codes, I like to try new melodies and rhythms (listening, err playing and writing heh), reading random articles about science and technology, playing with my pets (1 cockatiel and 3 dogs), reflecting, and meditating.
+Beside codes, I like to try new melodies and rhythms (listening, err playing and writing heh), reading random articles about science and technology.
 
 ##
 
