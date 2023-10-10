@@ -1,6 +1,6 @@
 ## Olá mundo. 
 
-Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui.
+Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui. Em breve atualizarei as documentações, e publicarei novos projetos.
 
 Duvidas, sugestões? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/). 
 
@@ -8,7 +8,7 @@ Além de códigos, gosto de me aventurar com diferentes melodias e ritmos, ler a
 
 ## Hello world.
 
-In October 2022, I began my journeys into the world of web development, and part of the way is here.
+In October 2022, I began my journeys into the world of web development, and part of the way is here. Soon there'll be updates in documentation, and new projects.
 
 Questions, suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
 
