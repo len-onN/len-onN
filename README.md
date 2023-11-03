@@ -1,4 +1,4 @@
-## Olá mundo. 
+⁹## Olá mundo. 
 
 Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui. Em breve atualizarei as documentações, e publicarei novos projetos.
 
@@ -32,7 +32,6 @@ Beside codes, I like to try new melodies and rhythms and readings of random arti
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.Js" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" />
-Express:
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
 </div>
