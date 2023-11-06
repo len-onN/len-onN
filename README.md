@@ -1,4 +1,4 @@
-⁹## Olá mundo. 
+## Olá mundo. 
 
 Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui. Em breve atualizarei as documentações, e publicarei novos projetos.
 
