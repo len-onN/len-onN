@@ -4,7 +4,8 @@ Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e u
 
 Duvidas, sugestões? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/). 
 
-Além de códigos, gosto de me aventurar com diferentes melodias e ritmos e ler artigos aleátorios sobre ciência e tecnologia.
+Além de códigos, gosto de me aventurar com diferentes melodias e ritmos e ler artigos aleátorios sobre ciência e tecnologia. Sinta-se livre para me mostrar
+musicas, e artigos, assim que possível averiguarei e darei um feedback. o//
 
 ## Hello world.
 
@@ -12,7 +13,7 @@ In October 2022, I began my journeys into the world of web development, and part
 
 Questions, suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
 
-Beside codes, I like to try new melodies and rhythms and readings of random articles about science and technology.
+Beside codes, I like to try new melodies and rhythms and readings of random articles about science and technology. New songs and articles are welcomed, and as soon as possible there'll be a feedback about it. o//
 
 ##
 
