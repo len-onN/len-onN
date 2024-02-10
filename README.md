@@ -9,7 +9,7 @@ musicas, e artigos, assim que possível averiguarei e darei um feedback. o//
 
 ## Hello world.
 
-In October 2022, I began my journeys into the world of web development, and part of the way is here. Soon there'll be updates in documentation, and new projects.
+In October 2022, I began my journey into the world of web development, and part of the way is here. Soon there'll be updates in documentation, and new projects.
 
 Coding questions, or suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
 
