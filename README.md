@@ -1,52 +1,54 @@
-## Olá mundo. 
+# Olá, eu sou o Lenon 👋
 
-Em outubro de 2022 iniciei minhas trilhas pelo mundo do web desenvolvimento, e um pouco do caminho está por aqui. Em breve atualizarei as documentações, e publicarei novos projetos.
+Sou desenvolvedor e tecnólogo em Análise e Desenvolvimento de Sistemas em formação, interessado principalmente em criar software que seja útil, compreensível, bem testado e capaz de continuar funcionando quando o projeto cresce, muda de mãos ou precisa ser revisitado depois de algum tempo.
 
-Duvidas, sugestões sobre os códigos? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/). 
+Tenho experiência e interesse em desenvolvimento full stack, especialmente com **Angular, TypeScript, .NET, Python, APIs, testes automatizados, bancos de dados e aplicações orientadas a dados**.
 
-Além de códigos, gosto de me aventurar com diferentes melodias e ritmos e ler artigos aleátorios sobre ciência e tecnologia. Sinta-se livre para me mostrar
-musicas, e artigos, assim que possível averiguarei e darei um feedback. o//
+Gosto de entender sistemas por dentro: investigar suas relações, desmontar problemas, encontrar pontos de acoplamento, pensar em como testar melhor e buscar soluções que não funcionem apenas agora, mas que também façam sentido para quem vier depois.
 
-## Hello world.
+## Coisas que venho estudando e desenvolvendo
 
-In October 2022, I began my journey into the world of web development, and part of the way is here. Soon there'll be updates in documentation, and new projects.
+* Front-end com Angular, React, TypeScript e JavaScript;
+* Back-end com .NET, Java, Node.js, Django e APIs REST;
+* Testes unitários, TDD, mocks, stubs, cobertura de código e testabilidade;
+* Bancos relacionais, SQL, modelagem de dados e organização de informação;
+* Docker, AWS, pipelines, observabilidade e monitoramento;
+* RAG, modelos locais de linguagem, IA aplicada e recuperação de conhecimento;
+* Arquitetura de software, manutenção de sistemas e qualidade de código.
 
-Coding questions, or suggestions? lenonphilippi@gmail.com, [Linkedin](https://www.linkedin.com/in/lenon-fernandes-philippi-baaa92252/).
+Tenho interesse especial por testabilidade, porque ela costuma revelar algo maior do que “o teste está passando”: revela como um sistema está organizado, o quanto suas partes dependem umas das outras e o quanto ele consegue ser compreendido sem precisar ser refeito inteiro.
 
-Beside codes, I like to try new melodies and rhythms and readings of random articles about science and technology. New songs and articles are welcomed, and as soon as possible there'll be a feedback about it. o//
+## Fora do código
 
-##
+Também gosto de música, composição, improvisação e de investigar como diferentes culturas transformam experiência em linguagem, rito, técnica e arte.
 
-## Estatísticas/Statistics:
-<span align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=len-onN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
-</span>
+Me interesso por filosofia, história, biologia, neurociência, natureza e por perguntas que parecem simples à primeira vista, mas que, quando observadas com calma, escondem um sistema inteiro por trás.
 
-### Stacks:
-<div>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React.js" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.Js" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
-</div>
-<!--
-**len-onN/len-onN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em geral, gosto de aprender desmontando as coisas — às vezes no código, às vezes em um conceito, às vezes em uma pergunta que ainda nem sei exatamente como formular.
 
-Here are some ideas to get you started:
+## Bora trocar ideia, testar coisas e construir junto?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este perfil não é apenas uma vitrine de projetos; ele também é uma mesa de trabalho aberta.
+
+Se você encontrar algo que possa melhorar, quebrar, simplificar ou expandir em algum repositório, fique à vontade para testar, abrir uma *issue*, sugerir mudanças ou iniciar uma conversa.
+
+Críticas bem fundamentadas, perguntas estranhas e ideias ainda meio inacabadas costumam ser bem-vindas por aqui.
+
+Sempre que a licença do projeto permitir, meus repositórios também podem servir como ponto de partida para estudos, adaptações, projetos derivados ou usos comerciais. A ideia é que código útil circule, seja apropriado de forma ética e talvez volte melhorado.
+
+Também tenho interesse em conhecer pessoas que queiram desenvolver projetos — ou simplesmente conversar — sobre temas como:
+
+* desenvolvimento web, arquitetura e qualidade de software;
+* testes automatizados, testabilidade e manutenção de sistemas;
+* Angular, .NET, Python, APIs e bancos de dados;
+* IA local, RAG, modelos de linguagem e organização de conhecimento;
+* observabilidade, infraestrutura, dados e experimentação técnica;
+* música, composição, filosofia, biologia, história e neurociência.
+
+Se você está procurando alguém para pensar junto, construir um projeto, revisar uma ideia, testar uma hipótese ou simplesmente jogar conversa fora sobre qualquer uma dessas coisas, há uma boa chance de eu topar.
+
+## Contato
+
+* [LinkedIn](https://www.linkedin.com/in/lenon-f-baaa92252/)
+* [E-mail](mailto:lenonphilippi@gmail.com)
+* ---
