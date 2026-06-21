@@ -45,10 +45,11 @@ Também tenho interesse em conhecer pessoas que queiram desenvolver projetos —
 * observabilidade, infraestrutura, dados e experimentação técnica;
 * música, composição, filosofia, biologia, história e neurociência.
 
-Se você está procurando alguém para pensar junto, construir um projeto, revisar uma ideia, testar uma hipótese ou simplesmente jogar conversa fora sobre qualquer uma dessas coisas, há uma boa chance de eu topar.
+Se você está procurando alguém para pensar junto, construir um projeto, revisar uma ideia, testar uma hipótese ou simplesmente jogar conversa fora sobre qualquer uma dessas coisas, há uma boa chance de eu topar. Se preferir, abaixo segue e-mail e linkedin. Valeus!
 
+---
 ## Contato
 
 * [LinkedIn](https://www.linkedin.com/in/lenon-f-baaa92252/)
 * [E-mail](mailto:lenonphilippi@gmail.com)
-* ---
+---
