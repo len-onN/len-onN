@@ -17,20 +17,21 @@ Gosto de entender sistemas por dentro: investigar suas relações, desmontar pro
 * Docker, AWS, pipelines, observabilidade e monitoramento;
 * RAG, modelos locais de linguagem, IA aplicada e recuperação de conhecimento;
 * Arquitetura de software, manutenção de sistemas e qualidade de código.
+* RAG - ChromaDB, 
 
 Tenho interesse especial por testabilidade, porque ela costuma revelar algo maior do que “o teste está passando”: revela como um sistema está organizado, o quanto suas partes dependem umas das outras e o quanto ele consegue ser compreendido sem precisar ser refeito inteiro.
 
-## Fora do código
+Bom, além 
 
-Também gosto de música, composição, improvisação e de investigar como diferentes culturas transformam experiência em linguagem, rito, técnica e arte.
+Também gosto de música, composição, improvisação e de investigar como diferentes culturas transformam experiência em linguagem, rito, técnica e arte - a humanidade, e seus anexos, símbolos e funções em suas diferentes formas.
 
-Me interesso por filosofia, história, biologia, neurociência, natureza e por perguntas que parecem simples à primeira vista, mas que, quando observadas com calma, escondem um sistema inteiro por trás.
+Me interesso por filosofia, história, biologia, neurociência, natureza. Filosofar sobre a natureza da mente enquanto observo a vida ao meu redor - parece bom. rs
 
 Em geral, gosto de aprender desmontando as coisas — às vezes no código, às vezes em um conceito, às vezes em uma pergunta que ainda nem sei exatamente como formular.
 
-## Bora trocar ideia, testar coisas e construir junto?
+Aqui tenho meus primeiros projetos, que estão dignos de primeiros - err
 
-Este perfil não é apenas uma vitrine de projetos; ele também é uma mesa de trabalho aberta.
+Mais recentemente estou experimentando com RAGs. Fiz um projeto para indexar informação de formulário - SQL - como embeddings em banco de vetores, e então transformar isso num RAG, e agora estou tentando desenvolver uma fábrica de RAGs - começando com pdf apenas.
 
 Se você encontrar algo que possa melhorar, quebrar, simplificar ou expandir em algum repositório, fique à vontade para testar, abrir uma *issue*, sugerir mudanças ou iniciar uma conversa.
 
@@ -47,7 +48,7 @@ Também tenho interesse em conhecer pessoas que queiram desenvolver projetos —
 * observabilidade, infraestrutura, dados e experimentação técnica;
 * música, composição, filosofia, biologia, história e neurociência.
 
-Se você está procurando alguém para pensar junto, construir um projeto, revisar uma ideia, testar uma hipótese ou simplesmente jogar conversa fora sobre qualquer uma dessas coisas, há uma boa chance de eu topar. Se preferir, abaixo segue e-mail e linkedin. Valeus!
+Se você está procurando alguém para pensar junto, construir um projeto, revisar uma ideia, testar uma hipótese ou simplesmente jogar conversa fora sobre qualquer uma dessas coisas, chama, bora. Se preferir, abaixo segue e-mail e linkedin.
 
 ---
 ## Contato
