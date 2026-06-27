@@ -2,7 +2,9 @@
 
 Sou desenvolvedor e tecnólogo em Análise e Desenvolvimento de Sistemas em formação, interessado principalmente em criar software que seja útil, compreensível, bem testado e capaz de continuar funcionando quando o projeto cresce, muda de mãos ou precisa ser revisitado depois de algum tempo.
 
-Tenho experiência e interesse em desenvolvimento full stack, especialmente com **Angular, TypeScript, .NET, Python, JAVA - OO em geral -, APIs, testes automatizados, bancos de dados e aplicações orientadas a dados**.
+Tenho experiência e interesse em desenvolvimento full stack, especialmente com **Angular, TypeScript, .NET, Python, JAVA - OO em geral -, APIs, testes automatizados, bancos de dados e aplicações orientadas a dados**. Prezo por qualidade - legibilidade, organização e performance - no desenvolvimento de minhas soluções, bem como no desenho de experiências satisfatórias.
+
+Também me interesso por história e impactos sociais da tecnologia, sob amplas perspectivas. Não sou um dos maiores citadores de homem-aranha que você vai conhecer, mas aqui, "grandes poderes vem com grandes responsabilidades" é uma máxima. 
 
 Gosto de entender sistemas por dentro: investigar suas relações, desmontar problemas, encontrar pontos de acoplamento, pensar em como testar melhor e buscar soluções que não funcionem apenas agora, mas que também façam sentido para quem vier depois.
 
