@@ -1,6 +1,6 @@
 ## Bem vindo
 
-Oi, aqui tenho alguns forks interessantes e alguns projetos de estudo.
+Aqui tenho alguns forks interessantes e alguns projetos de estudo que venho desenvolvendo ao longo de minha trajetória como desenvolvedor.
 
 Atualmente estou experimentando Angular, Spring Boot e RAGs (Retrieval-Augmented Generation) - mais especificamente, estou tentando montar um montador de RAGs a partir de documentos - começando com PDF.
 
