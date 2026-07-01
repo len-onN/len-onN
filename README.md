@@ -11,6 +11,6 @@ Além disso, gosto muito de ciências e arte em geral - ultimamente com maior fo
 
 ## Contato
 
-* [LinkedIn](https://www.linkedin.com/in/lenon-f-baaa92252/)
+* [LinkedIn](https://www.linkedin.com/in/lenon-f-philippi-dev/)
 * [E-mail](mailto:lenonphilippi@gmail.com)
 ---
